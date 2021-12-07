@@ -42,7 +42,7 @@ Development still in progres...
   # FrontEnd:
   
   Lucas Fernandes
-    - Linkedin - [Lucas](https://www.linkedin.com/in/lucasfernandesreis/)
+    - Linkedin - [lucasfernandesreis](https://www.linkedin.com/in/lucasfernandesreis/)
     
   NetoSilva
     - Website - [Neto Silva](https://netosilv4.github.io/)
