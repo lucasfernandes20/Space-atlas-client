@@ -30,7 +30,20 @@
 
 Development still in progres...
 
-## Author
+### Author
 
-- Website - [Neto Silva](https://netosilv4.github.io/)
-- Linkedin - [Netosilv4](https://www.linkedin.com/in/netosilv4/)
+  # BackEnd:
+  
+  NetoSilva
+    - Website - [Neto Silva](https://netosilv4.github.io/)
+    - Linkedin - [Netosilv4](https://www.linkedin.com/in/netosilv4/)
+    
+    
+  # FrontEnd:
+  
+  Lucas Fernandes
+    - Linkedin - [Lucas](https://www.linkedin.com/in/lucasfernandesreis/)
+    
+  NetoSilva
+    - Website - [Neto Silva](https://netosilv4.github.io/)
+    - Linkedin - [Netosilv4](https://www.linkedin.com/in/netosilv4/)
